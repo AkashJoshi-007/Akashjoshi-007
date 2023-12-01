@@ -1,5 +1,3 @@
-![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)
-
 
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
