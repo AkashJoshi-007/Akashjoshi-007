@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasikag23&label=Profile%20views&color=0e75b6&style=flat" alt="rasikag23" /> </p>
 <!-- Intro  -->
@@ -12,8 +12,7 @@
               </samp>
 </h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=550&lines=_+_+_+_+I+Am+a+Full+Stack+Web+Developer+🚶)](https://git.io/typing-svg)
+
 
 
 - 🔭 I’m currently working on Wikipedia-Basic-Website
