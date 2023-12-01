@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Wikipedia-Basic-Website
 
-- 🌱 I’m currently learning **Node js and mongodb**
+- 🌱 I’m currently learning **React js,Node js,mongodb**
 
 - 👨‍💻 All of my projects are available at  https://github.com/AkashJoshi-007
 
@@ -61,7 +61,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![CkakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashjoshi-007&show_icons=true&locale=en&layout=compact" alt="akashjoshi-007" /></p>
 
